@@ -461,6 +461,16 @@ ofp_flow_mod_command_rev_map = {
   'OFPFC_DELETE_STRICT' : 4,
 }
 
+
+ofp_flow_size = {
+  'entry_one'         : 0,
+  'entry_two'        : 1,
+  'entry_three' : 2,
+  'longer_one'        : 3,
+  'longer_two' : 4,
+}
+
+
 ofp_flow_mod_flags_rev_map = {
   'OFPFF_SEND_FLOW_REM' : 1,
   'OFPFF_CHECK_OVERLAP' : 2,
