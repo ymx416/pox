@@ -463,11 +463,23 @@ ofp_flow_mod_command_rev_map = {
 
 
 ofp_flow_size = {
-  'entry_one'         : 0,
-  'entry_two'        : 1,
+  'entry_one'   : 0,
+  'entry_two'   : 1,
   'entry_three' : 2,
-  'longer_one'        : 3,
-  'longer_two' : 4,
+  'entry_four'  : 3,
+  'entry_five'  : 4,
+  'entry_six'   : 5,
+  'entry_seven' : 6,
+  'entry_eight' : 7,
+
+  'longer_one'  : 8,
+  'longer_two'  : 9,
+  'longer_three': 10,
+  'longer_four' : 11,
+  'longer_five' : 12,
+  'longer_six'  : 13,
+  'longer_seven': 14,
+  'longer_eight': 15,
 }
 
 
